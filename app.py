@@ -7,6 +7,7 @@ origins = [
     "http://localhost",
     "http://localhost:3000",
     "http://apirest.com.ar:8900"
+    "https://next-words-form.vercel.app"
 ]
 
 app = FastAPI()
