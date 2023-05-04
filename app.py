@@ -10,7 +10,7 @@ ssl_context.load_cert_chain(certfile="certs/cert.crt", keyfile="certs/cert.key")
 origins = [
     "http://localhost",
     "http://localhost:3000",
-    "http://apirest.com.ar:8900"
+    "http://apirest.com.ar:8900",
     "https://next-words-form.vercel.app"
 ]
 
